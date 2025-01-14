@@ -1,4 +1,4 @@
-# Telco-chur
+# Telco-churn
 # **Business Problem Understanding**
 **Context**
 
